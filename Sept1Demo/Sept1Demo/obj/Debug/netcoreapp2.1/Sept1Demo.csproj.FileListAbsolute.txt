@@ -1,0 +1,11 @@
+C:\Users\Paresh\source\repos\Sept1Demo\Sept1Demo\bin\Debug\netcoreapp2.1\Sept1Demo.deps.json
+C:\Users\Paresh\source\repos\Sept1Demo\Sept1Demo\bin\Debug\netcoreapp2.1\Sept1Demo.runtimeconfig.json
+C:\Users\Paresh\source\repos\Sept1Demo\Sept1Demo\bin\Debug\netcoreapp2.1\Sept1Demo.runtimeconfig.dev.json
+C:\Users\Paresh\source\repos\Sept1Demo\Sept1Demo\bin\Debug\netcoreapp2.1\Sept1Demo.dll
+C:\Users\Paresh\source\repos\Sept1Demo\Sept1Demo\bin\Debug\netcoreapp2.1\Sept1Demo.pdb
+C:\Users\Paresh\source\repos\Sept1Demo\Sept1Demo\obj\Debug\netcoreapp2.1\Sept1Demo.csprojAssemblyReference.cache
+C:\Users\Paresh\source\repos\Sept1Demo\Sept1Demo\obj\Debug\netcoreapp2.1\Sept1Demo.csproj.CoreCompileInputs.cache
+C:\Users\Paresh\source\repos\Sept1Demo\Sept1Demo\obj\Debug\netcoreapp2.1\Sept1Demo.AssemblyInfoInputs.cache
+C:\Users\Paresh\source\repos\Sept1Demo\Sept1Demo\obj\Debug\netcoreapp2.1\Sept1Demo.AssemblyInfo.cs
+C:\Users\Paresh\source\repos\Sept1Demo\Sept1Demo\obj\Debug\netcoreapp2.1\Sept1Demo.dll
+C:\Users\Paresh\source\repos\Sept1Demo\Sept1Demo\obj\Debug\netcoreapp2.1\Sept1Demo.pdb

@@ -1,0 +1,7 @@
+C:\Users\Paresh\source\repos\SchoolDemo\SchoolDemo\bin\Debug\SchoolDemo.exe.config
+C:\Users\Paresh\source\repos\SchoolDemo\SchoolDemo\bin\Debug\SchoolDemo.exe
+C:\Users\Paresh\source\repos\SchoolDemo\SchoolDemo\bin\Debug\SchoolDemo.pdb
+C:\Users\Paresh\source\repos\SchoolDemo\SchoolDemo\obj\Debug\SchoolDemo.csprojAssemblyReference.cache
+C:\Users\Paresh\source\repos\SchoolDemo\SchoolDemo\obj\Debug\SchoolDemo.csproj.CoreCompileInputs.cache
+C:\Users\Paresh\source\repos\SchoolDemo\SchoolDemo\obj\Debug\SchoolDemo.exe
+C:\Users\Paresh\source\repos\SchoolDemo\SchoolDemo\obj\Debug\SchoolDemo.pdb
